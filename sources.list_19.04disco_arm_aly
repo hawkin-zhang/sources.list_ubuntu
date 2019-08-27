@@ -1,0 +1,10 @@
+deb http://mirrors.aliyun.com/ubuntu-ports/ disco main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports/ disco main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu-ports/ disco-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports/ disco-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu-ports disco-security main restricted
+deb-src http://mirrors.aliyun.com/ubuntu-ports disco-security main restricted
+deb http://mirrors.aliyun.com/ubuntu-ports disco-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports disco-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu-ports disco-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports disco-backports main restricted universe multiverse

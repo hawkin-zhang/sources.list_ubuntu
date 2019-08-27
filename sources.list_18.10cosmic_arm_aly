@@ -1,0 +1,10 @@
+deb http://mirrors.aliyun.com/ubuntu-ports/ cosmic main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports/ cosmic main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu-ports/ cosmic-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports/ cosmic-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu-ports cosmic-security main restricted
+deb-src http://mirrors.aliyun.com/ubuntu-ports cosmic-security main restricted
+deb http://mirrors.aliyun.com/ubuntu-ports cosmic-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports cosmic-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu-ports cosmic-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu-ports cosmic-backports main restricted universe multiverse
